@@ -13,9 +13,9 @@ return require('packer').startup(function(use)
 	  requires = { {'nvim-lua/plenary.nvim'} }
   }
 
-  use({ 'rose-pine/neovim', as = 'rose-pine' })
+  use { "catppuccin/nvim", as = "catppuccin" }
 
-  vim.cmd('colorscheme rose-pine')
+  vim.cmd('colorscheme catppuccin')
 
   use {
 	  'nvim-treesitter/nvim-treesitter',
