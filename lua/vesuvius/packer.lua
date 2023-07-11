@@ -52,4 +52,9 @@ use("github/copilot.vim")
 
 use("jose-elias-alvarez/null-ls.nvim")
 
+use {
+    "nvim-telescope/telescope-file-browser.nvim",
+    requires = { "nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim" }
+}
+
 end)
