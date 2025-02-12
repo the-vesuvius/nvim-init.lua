@@ -15,11 +15,6 @@ return {
 			lazy = false,
 		},
 		{
-			"VonHeikemen/lsp-zero.nvim",
-			branch = "v2.x",
-			lazy = false,
-		},
-		{
 			"hrsh7th/nvim-cmp",
 			dependencies = {
 				"roobert/tailwindcss-colorizer-cmp.nvim",
@@ -240,6 +235,7 @@ return {
 			"prettier",
 			"eslint_d",
 			"zls",
+			"elixir-ls",
 		}
 
 		require("mason-tool-installer").setup({ ensure_installed = tools })
