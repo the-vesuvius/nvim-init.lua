@@ -9,6 +9,7 @@
   "cmp_luasnip": { "branch": "master", "commit": "98d9cb5c2c38532bd9bdb481067b20fea8f32e90" },
   "editorconfig.nvim": { "branch": "master", "commit": "5b9e303e1d6f7abfe616ce4cc8d3fffc554790bf" },
   "fidget.nvim": { "branch": "main", "commit": "9238947645ce17d96f30842e61ba81147185b657" },
+  "flash.nvim": { "branch": "main", "commit": "3c942666f115e2811e959eabbdd361a025db8b63" },
   "gitsigns.nvim": { "branch": "main", "commit": "2ff0c29f2a6b1247d96cc59535d53e5589fb50b6" },
   "go.nvim": { "branch": "master", "commit": "6e5a74b866aa4a112ed85a1169befff2ef82c027" },
   "guihua.lua": { "branch": "master", "commit": "d783191eaa75215beae0c80319fcce5e6b3beeda" },
